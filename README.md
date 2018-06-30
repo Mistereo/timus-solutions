@@ -1,6 +1,6 @@
 # Timus Online Judge solutions
 
-This repo contains my solutions to [Timus](http://acm.timus.ru/).
+This repo contains my solutions to [Timus](http://acm.timus.ru/author.aspx?id=97457).
 
 Most of them were written during my first two years (2010-2012) of studying in [USU](https://en.wikipedia.org/wiki/Ural_State_University).
 
